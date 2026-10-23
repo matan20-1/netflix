@@ -1,4 +1,4 @@
-# MovieBox 🎬
+# NETFLIX 🎬
 
 אתר סרטים שבניתי בקורס HTML.
 
